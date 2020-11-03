@@ -1,0 +1,44 @@
+[{
+  "_id": {
+    "$oid": "5f983f76a0298e2d4413606d"
+  },
+  "stu_id": "ISCE0001",
+  "name": "Poe Thandar",
+  "phoneno": "096800333",
+  "address": "Pyinoolwin",
+  "role": "student"
+},{
+  "_id": {
+    "$oid": "5f983fe2a0298e2d4413606e"
+  },
+  "stu_id": "ISCE0002",
+  "name": "Chan Myae",
+  "phoneno": "09355800333",
+  "address": "Naypyitaw",
+  "role": "student"
+},{
+  "_id": {
+    "$oid": "5f984027a0298e2d4413606f"
+  },
+  "name": "Naw Naw",
+  "phoneno": "09785800333",
+  "address": "Naypyitaw",
+  "role": "teacher"
+},{
+  "_id": {
+    "$oid": "5f9a43dc3540842c04b727d5"
+  },
+  "name": "Techel Hnin",
+  "phoneno": "0979588833",
+  "address": "Mandalay",
+  "role": "teacher"
+},{
+  "_id": {
+    "$oid": "5f9bb1929b9f1b2f947cac1b"
+  },
+  "stu_id": "ISCE0003",
+  "name": "Min Min",
+  "phoneno": "09678888833",
+  "address": "Bago",
+  "role": "student"
+}]

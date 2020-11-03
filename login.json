@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "5f9ba3efbcf60e0cd81edbda"
+  },
+  "username": "Poe Thandar",
+  "password": "poepoe",
+  "role": "student"
+},{
+  "_id": {
+    "$oid": "5f9ba412bcf60e0cd81edbdb"
+  },
+  "username": "Naw Naw",
+  "password": "12345",
+  "role": "teacher"
+},{
+  "_id": {
+    "$oid": "5f9ba44ebcf60e0cd81edbdc"
+  },
+  "username": "Techel Hnin",
+  "password": "12345",
+  "role": "teacher"
+},{
+  "_id": {
+    "$oid": "5fa0e46caf2cb222e087e597"
+  },
+  "username": "Min Min",
+  "password": "min min",
+  "role": "student"
+},{
+  "_id": {
+    "$oid": "5fa0e4f5af2cb222e087e598"
+  },
+  "username": "Chan Myae",
+  "password": "chan myae",
+  "role": "student"
+}]
